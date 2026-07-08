@@ -16,6 +16,7 @@
 ## About me
 
 I'm a researcher and engineer working at the intersection of classical optics and deep learning. My PhD focuses on intelligent computational methods for wavefront sensing and phase aberration compensation in free-space optical systems. I develop numerical diffraction models and neural network architectures that reconstruct wavefronts with pixel-level resolution, achieving orders-of-magnitude speedups over traditional iterative approaches.
+Note: I am actively building my public portfolio of research code. All core repositories will be uploaded and maintained here starting from 2026.
 
 ---
 
