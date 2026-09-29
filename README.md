@@ -53,8 +53,7 @@ Note: I am actively building my public portfolio of research code. All core repo
 ## Publications & conferences
 
 - Participant in **RSF Grant № 22‑79‑10340‑П** (2025–2027).
-- Regular contributor to **HOLOEXPO** (2025) and **"Lasers in Science, Technology, Medicine"** conferences (2023–2025).
-- Journal article in preparation for **Applied Optics**; planned participation in **HOLOEXPO‑2026**.
+- Regular contributor to **HOLOEXPO** (2025-2026) and **"Lasers in Science, Technology, Medicine"** conferences (2023–2025).
 
 ---
 
